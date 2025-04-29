@@ -1,4 +1,5 @@
 🏠 Real Estate Management System
+https://github.com/user-attachments/assets/deab9dac-4657-4b95-9abb-b5acb6fe81b2
 📌 Project Overview
 This project is a comprehensive Real Estate Management System, originally developed as a desktop application, and later converted into a modern, responsive web application using .NET Core API for the backend and Angular for the frontend.
 
@@ -43,4 +44,4 @@ Generate contract documents and payment schedules
 Responsive design for desktop and mobile use
 
 
-https://github.com/user-attachments/assets/deab9dac-4657-4b95-9abb-b5acb6fe81b2
+
