@@ -1,4 +1,5 @@
 🏠 Real Estate Management System
+I did this entire project alone in just 4 months. It contains more than 40 important reports for following up on wages,
 
 https://github.com/user-attachments/assets/deab9dac-4657-4b95-9abb-b5acb6fe81b2
 
