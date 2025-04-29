@@ -4,7 +4,7 @@ I did this entire project alone in just 4 months. It contains more than 40 impor
 https://github.com/user-attachments/assets/deab9dac-4657-4b95-9abb-b5acb6fe81b2
 
 📌 Project Overview
-This project is a comprehensive Real Estate Management System, originally developed as a desktop application, and later converted into a modern, responsive web application using .NET Core API for the backend and Angular for the frontend.
+This project is a comprehensive Real Estate Management System, originally developed as a desktop application, and later converted into a modern, responsive web application using .NET Core API for the backend and bootstrap for the frontend.
 
 It was developed as part of my role at EL-Mizan Company, where I was responsible for modernizing legacy systems and implementing business-specific enhancements to meet real-world client needs.
 
